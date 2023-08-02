@@ -1,5 +1,6 @@
 using CacheRedis.Api.DbContexts;
 using Microsoft.EntityFrameworkCore;
+using StackExchange.Redis;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,7 @@ builder.Services.AddDbContext<CotacaoContext> (options =>
     options.UseNpgsql("Host=localhost;Database=aula_32;Username=postgres;Password=123456");
 });
 
+builder.Services.AddSingleton<IConnectionMultiplexer>(ConnectionMultiplexer.Connect("redis-16456.c308.sa-east-1-1.ec2.cloud.redislabs.com:16456,password=m0725si9gKgyDn8grJqFx3vHXwlGUDlF"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

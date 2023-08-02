@@ -42,3 +42,5 @@ C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Mono.TextTem
 C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Npgsql.dll
 C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\StackExchange.Redis.dll
