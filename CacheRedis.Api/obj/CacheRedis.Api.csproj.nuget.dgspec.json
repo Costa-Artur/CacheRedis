@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj": {}
+    "c:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj": {
+    "c:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj",
+        "projectUniqueName": "c:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj",
         "projectName": "CacheRedis.Api",
-        "projectPath": "C:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj",
+        "projectPath": "c:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj",
         "packagesPath": "C:\\Users\\7828497\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\obj\\",
+        "outputPath": "c:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
