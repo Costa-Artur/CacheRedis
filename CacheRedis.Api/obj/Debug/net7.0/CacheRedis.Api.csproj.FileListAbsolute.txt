@@ -31,3 +31,14 @@ C:\Users\7828497\desktop\CacheRedis\cacheredis.api\obj\Debug\net7.0\refint\Cache
 C:\Users\7828497\desktop\CacheRedis\cacheredis.api\obj\Debug\net7.0\CacheRedis.Api.pdb
 C:\Users\7828497\desktop\CacheRedis\cacheredis.api\obj\Debug\net7.0\CacheRedis.Api.genruntimeconfig.cache
 C:\Users\7828497\desktop\CacheRedis\cacheredis.api\obj\Debug\net7.0\ref\CacheRedis.Api.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\7828497\desktop\CacheRedis\CacheRedis.api\bin\Debug\net7.0\System.CodeDom.dll

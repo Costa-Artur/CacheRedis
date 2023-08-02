@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "6zb0PMlr29VQRJLB0AHPoOT2YBloJzBqWvCy66Vt8dUoZZfhp7xEgpnF4+BSLNTiVIcijQXKb8sNu7T3MWb0jA==",
-  "success": false,
-  "projectFilePath": "c:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.Api\\CacheRedis.Api.csproj",
+  "dgSpecHash": "tx0hc6VLHLE07jl5oXlvFV8Tu6wcGl+j47xHWiXgfOjhksjmVAqNXjKjiqKZ591z63TMHPftiKvHcgjrytRwcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\7828497\\desktop\\CacheRedis\\CacheRedis.api\\CacheRedis.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\7828497\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\7828497\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\7828497\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\7828497\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\7828497\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
+    "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
-    "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.4\\microsoft.entityframeworkcore.analyzers.7.0.4.nupkg.sha512",
+    "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
     "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.4\\microsoft.entityframeworkcore.design.7.0.4.nupkg.sha512",
     "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\7828497\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.4\\microsoft.entityframeworkcore.tools.7.0.4.nupkg.sha512",
@@ -37,15 +37,5 @@
     "C:\\Users\\7828497\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\7828497\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Downgrade de pacote detectado: Microsoft.EntityFrameworkCore de 7.0.5 para 7.0.4. Referencie o pacote diretamente do projeto para selecionar uma versão diferente. \r\n CacheRedis.Api -> Npgsql.EntityFrameworkCore.PostgreSQL 7.0.4 -> Microsoft.EntityFrameworkCore (>= 7.0.5 && < 8.0.0) \r\n CacheRedis.Api -> Microsoft.EntityFrameworkCore (>= 7.0.4)",
-      "libraryId": "Microsoft.EntityFrameworkCore",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
